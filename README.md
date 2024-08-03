@@ -36,7 +36,7 @@ cobweb-timer: 300
 ```
 
 # 🛠️ Installation
-1. Download the latest version of SpiderSense from the [releases page](link-to-releases).
+1. Download the latest version of SpiderSense from [Spigot](https://www.spigotmc.org/resources/spidersense.118609/).
 2. Place the JAR file into your server's `plugins` directory.
 3. Restart your server to generate the configuration file.
 4. Edit `config.yml` to adjust settings as needed.
