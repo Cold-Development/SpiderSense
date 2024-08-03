@@ -1,0 +1,9 @@
+name: SpiderSense
+version: '1.0'
+main: org.padrewin.spidersense.SpiderSense
+api-version: '1.20'
+author: 'padrewin'
+commands:
+  spidersense:
+    description: Total access to the plugin commands.
+    permission: spidersense.admin
